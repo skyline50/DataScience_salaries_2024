@@ -1,2 +1,2 @@
-# DataScience_salaries_2024
+# DataScience_salaries
 UCSC
